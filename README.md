@@ -13,3 +13,4 @@ predicting spread change direction than predicting profitable trades
 After applying this pairs strategy on NSE equities over the span of 5 years from 2015 to 2019 we got some
 handsome profits. From this technique we have found 48 pairs outperforms NIFTY-50(buy and hold for 5 years) with
 maximum profit of 467% on single pair.
+![Result](https://github.com/anmol22004/Pairs-Trading-with-Machine-Learning/blob/main/Result.png)
